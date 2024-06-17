@@ -1,0 +1,23 @@
+{
+  "name": "testing-scrape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@2captcha/captcha-solver": "^1.0.1",
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "exceljs": "^4.4.0",
+    "puppeteer": "^22.8.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "puppeteer-real-browser": "^1.2.18"
+  }
+}
